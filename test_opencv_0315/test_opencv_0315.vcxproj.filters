@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test_opencv_0315.cpp">
+    <ClCompile Include="test_opencv_0315_cannysobellog.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
